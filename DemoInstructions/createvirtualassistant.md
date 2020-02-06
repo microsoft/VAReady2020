@@ -1,4 +1,5 @@
 # Creating a base Virtual Assistant
+aka.ms/VAReadyDemo1
 10. Open Visual Studio, and create a new project from the Virtual Assistant Template. Give it a unique name
 1. Build the solution to restore all NuGet packages
 1. Open a PowerShell Core window, and set up your environment with the following. You'll be prompted to login
