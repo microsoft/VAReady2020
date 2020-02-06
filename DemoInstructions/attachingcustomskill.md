@@ -1,4 +1,6 @@
 # Attaching a custom Skill
+aka.ms/VAReadyDemo3
+
 ## Deploy a custom Skill
 33. Create new project from Skill Template in Visual Studio. Give it a unique name and create it in the same directory your Virtual Assistant is in (i.e. if your Virtual Assistant is in `C:\Users\<USERNAME>\Source\Repos`, place the custom Skill there as well)
 1. Build the solution to restore all packages
