@@ -21,3 +21,8 @@ aka.ms/VAReadyPreReq
 
 1. Download and install the [Azure CLI](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli-windows?view=azure-cli-latest) (Minimum version 2.0.64 required).
 1. Download and install the [Bot Framework Emulator](https://aka.ms/botframework-emulator).
+
+Note: You might need enable the running of unsigned powershell scripts.  Run the following command from an admin powershell:
+   ```
+   Set-ExecutionPolicy Unrestricted
+   ```
