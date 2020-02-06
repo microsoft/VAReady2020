@@ -1,4 +1,6 @@
 # Attaching a pre-built Skill
+aka.ms/VAReadyDemo2
+
 ## Deploy the pre-built Skill
 18. Clone the [Bot Framework Solutions repo](https://github.com/microsoft/botframework-solutions)
 1. Open the [pre-built Point Of Interest Skill](https://microsoft.github.io/botframework-solutions/skills/samples/point-of-interest/)  ([/skills/csharp/pointofinterestskill/](https://github.com/microsoft/botframework-solutions/tree/master/skills/csharp/pointofinterestskill)) project  in Visual Studio
