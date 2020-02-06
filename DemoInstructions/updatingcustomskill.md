@@ -1,4 +1,6 @@
 # Updating your custom Skill
+aka.ms/VAReadyDemo4
+
 ## Develop your language understanding model
 45. Navigate to https://preview.luis.ai/ and click on the app named after the Skill you deployed: _"{Azure resource name}en-us\_{Skill name}"_
 1. Create a new [Intent](https://docs.microsoft.com/en-us/azure/cognitive-services/luis/luis-concept-intent)
