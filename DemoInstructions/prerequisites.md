@@ -1,4 +1,6 @@
 # Pre-Requisites
+aka.ms/VAReadyPreReq
+
 ## Download and Install
 1. Download and install Visual Studio 2019 for PC or Mac.
 1. Download and install the [Virtual Assistant and Skill Templates](https://marketplace.visualstudio.com/items?itemName=BotBuilder.VirtualAssistantTemplate). 
