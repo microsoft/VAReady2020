@@ -57,3 +57,4 @@ aka.ms/VAReadyDemo4
 - Connect your Virtual Assistant to the [Power BI Template](https://microsoft.github.io/botframework-solutions/solution-accelerators/tutorials/view-analytics/1-intro/)
 - Enable [Continuous Integration](https://microsoft.github.io/botframework-solutions/solution-accelerators/tutorials/enable-continuous-integration/csharp/1-intro/) and [Continuous Deployment](https://microsoft.github.io/botframework-solutions/solution-accelerators/tutorials/enable-continuous-deployment/1-intro/)
 - Participate on [GitHub](https://github.com/microsoft/botframework-solutions/issues)
+- [Adaptive Dialogs](https://github.com/Microsoft/BotBuilder-Samples/tree/master/experimental/adaptive-dialog)
