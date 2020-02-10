@@ -3,7 +3,10 @@ aka.ms/VAReadyDemo2
 
 ## Deploy the pre-built Skill
 18. Clone the [Bot Framework Solutions repo](https://github.com/microsoft/botframework-solutions)
-1. Open the [pre-built Point Of Interest Skill](https://microsoft.github.io/botframework-solutions/skills/samples/point-of-interest/)  ([/skills/csharp/pointofinterestskill/](https://github.com/microsoft/botframework-solutions/tree/master/skills/csharp/pointofinterestskill)) project  in Visual Studio
+1. Open the [pre-built Point Of Interest Skill](https://microsoft.github.io/botframework-solutions/skills/samples/point-of-interest/)  ([/skills/csharp/pointofinterestskill/](https://github.com/microsoft/botframework-solutions/tree/master/skills/csharp/pointofinterestskill)) project in Visual Studio. 
+    
+    NOTE: This project uses common files outside of its own directory, so for the purposes of this workshop, don't move the pointofinterestskill folder from the repo.
+    
 1. In a PowerShell Core window, navigate to the Skill's project directory, and run the following:
     ```
     ./Deployment/Scripts/deploy.ps1
@@ -47,3 +50,6 @@ aka.ms/VAReadyDemo2
 1. Click `Save and connect` to run your bot
 1. Once the Emulator connects to the endpoint, you should see the same welcome as before
 1. Test an utterance from the Point Of Interest Skill, such as _"Can you recommend a restaurant in Seattle?"_ to see that the Skill is connected to the Virtual Assistant
+
+
+[**Next, attach a custom Skill.**](https://github.com/microsoft/VAReady2020/blob/master/DemoInstructions/attachingcustomskill.md)
