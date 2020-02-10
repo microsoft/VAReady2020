@@ -37,3 +37,5 @@ aka.ms/VAReadyDemo3
 1. Run your local Virtual Assistant
 1. Open the Virtual Assistant configuration in the Emulator again. You should see the same welcome as before
 1. Test the _"sample dialog"_ utterance in the Virtual Assistant to see that the Skill is connected
+
+[**Next, updating your custom Skill.**](https://github.com/microsoft/VAReady2020/blob/master/DemoInstructions/updatingcustomskill.md)
