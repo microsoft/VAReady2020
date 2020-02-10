@@ -1,3 +1,8 @@
+# Virtual Assistant and Skill Workshop
+
+This workshop walks through creating a Virtual Assistant, attaching a pre-built Skill, attaching a custom Skill, and updating the custom Skill. We utilize the Bot Framework Solutions templates (docs available [here](https://microsoft.github.io/botframework-solutions/index).)
+
+[**Start the workshop**](https://github.com/microsoft/VAReady2020/blob/master/DemoInstructions/prerequisites.md)
 
 # Contributing
 
