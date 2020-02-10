@@ -25,3 +25,7 @@ aka.ms/VAReadyDemo1
    Once you've entered the parameters, the script provisions the Virtual Assistant's Azure resources. It also publishes the initial cognitive models to LUIS/QnA Maker and publishes the bot project to the App Service
 1. After successful completion, go to the Azure portal, and navigate to your Virtual Assistant's `Web App Bot` resource
 1. Click the `Test in Webchat` blade to test your deployed Virtual Assistant
+
+
+
+[**Next, attach a pre-built Skill.**](https://github.com/microsoft/VAReady2020/blob/master/DemoInstructions/attachingprebuiltskill.md)
