@@ -26,3 +26,6 @@ Note: You might need enable the running of unsigned powershell scripts.  Run the
    ```
    Set-ExecutionPolicy Unrestricted
    ```
+
+
+[**Next, create a base Virtual Assistant.**](https://github.com/microsoft/VAReady2020/blob/master/DemoInstructions/createvirtualassistant.md)
