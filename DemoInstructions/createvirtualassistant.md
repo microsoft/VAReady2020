@@ -1,6 +1,9 @@
 # Creating a base Virtual Assistant
 aka.ms/VAReadyDemo1
 
+> **See also:**
+> [Instructions released for deploying the Virtual Assistant template to Azure US Government Cloud](https://microsoft.github.io/botframework-solutions/overview/whats-new/0.8-beta/azure-gov-deployment/)
+
 10. Open Visual Studio, and create a new project from the Virtual Assistant Template. Give it a unique name
 1. Build the solution to restore all NuGet packages
 1. Open a PowerShell Core window, and set up your environment with the following. You'll be prompted to login
